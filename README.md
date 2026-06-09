@@ -4,4 +4,4 @@ something along the lines of:
 
 < div id="faculty" > < /div >
 
-Should work in your HTML
+should work in your HTML
