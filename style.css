@@ -1,0 +1,20 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex-basis: 48%;
+    padding: 2px;
+}
+
+.names {
+    font-weight: bold;
+}
+
+@media screen and (min-width: 800px) {
+    .column {
+        flex: 1;
+    }
+}
